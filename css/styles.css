@@ -267,6 +267,7 @@ body {
 .portfolio__info {
     padding: 32px 16px;
     border: 1px solid var(--accent);
+    border-top: none;
 }
 
 .footer {
